@@ -15,9 +15,12 @@ namespace WEB.UI.Controllers
 
         // GET: PrestataireController
         //https://localhost:7066/Prestataire/Index
-        public ActionResult Index()
+        public ActionResult Index(string nom)
         {
-            return View(sp.GetAll());
+            if(nom == null)
+                return View(sp.GetAll().OrderBy(p=>p.PrestataireNom));
+            return View(sp.GetMany(p=>p.PrestataireNom==nom).OrderBy(p => p.PrestataireNom));
+
         }
 
         // GET: PrestataireController/Details/5

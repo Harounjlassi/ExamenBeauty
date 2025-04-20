@@ -18,13 +18,15 @@ namespace WEB.UI.Controllers
             this.sp = sp;
         }
 
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
-            var allPrestataires = sp.GetAll()
-.ToList();
-            ViewBag.PrestataireList = new SelectList(allPrestataires, "PrestataireId", "PrestataireNom");
+            if(id==null)
+                return View(pss.GetAll());
+            return View(pss.GetMany(p=>p.PrestataireFk==id));
 
-            return View(pss.GetAll());
+
+
+
         }
 
         // GET: PrestationController/Details/5
