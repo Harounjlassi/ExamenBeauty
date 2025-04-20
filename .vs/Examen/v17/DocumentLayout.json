@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\controllers\\prestationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\prestationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\views\\prestation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\prestation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\views\\prestation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\prestation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|solutionrelative:exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\services\\serviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\serviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\services\\serviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\serviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\web.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\web.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\services\\servicerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\servicerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iservicerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iservicerdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iserviceprestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iserviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\exam.infrastructure\\migrations\\20250420120616_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,20 +107,12 @@
       "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\exam.infrastructure\\exam.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -83,24 +123,12 @@
       "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|solutionrelative:exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\applicationcore\\applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\web.ui\\web.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\web.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examenbeauty\\examen\\exam.console\\exam.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -114,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,72 +150,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServicePrestation.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestation.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServicePrestation.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestation.cs",
-              "RelativeToolTip": "ApplicationCore\\Services\\ServicePrestation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:28:04.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IServicePrestation.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServicePrestation.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServicePrestation.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServicePrestation.cs",
-              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServicePrestation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:26:44.898Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestation\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB.UI\\Views\\Prestation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestation\\Index.cshtml",
+              "RelativeToolTip": "WEB.UI\\Views\\Prestation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T17:26:27.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServicePrestataire.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestataire.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServicePrestataire.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestataire.cs",
-              "RelativeToolTip": "ApplicationCore\\Services\\ServicePrestataire.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T12:12:01.874Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestation\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB.UI\\Views\\Prestation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestation\\Create.cshtml",
+              "RelativeToolTip": "WEB.UI\\Views\\Prestation\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:41:30.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\Service.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Services\\Service.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\Service.cs",
-              "RelativeToolTip": "ApplicationCore\\Services\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PrestationController.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Controllers\\PrestationController.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\PrestationController.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Controllers\\PrestationController.cs",
+              "RelativeToolTip": "WEB.UI\\Controllers\\PrestationController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:39:19.312Z",
+              "WhenOpened": "2025-04-20T16:29:24.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestataire.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestataire.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Prestataire.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:47:47.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PrestataireController.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Controllers\\PrestataireController.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\PrestataireController.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Controllers\\PrestataireController.cs",
+              "RelativeToolTip": "WEB.UI\\Controllers\\PrestataireController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:13:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Exam.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Console\\Program.cs",
+              "RelativeToolTip": "Exam.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:43:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IService.cs",
               "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IService.cs",
               "RelativeToolTip": "ApplicationCore\\Interfaces\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T12:12:33.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "ServicePrestation.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestation.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServicePrestation.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestation.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ServicePrestation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:28:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Type.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Type.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Type.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:56:39.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicePrestataire.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestataire.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServicePrestataire.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServicePrestataire.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ServicePrestataire.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:12:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Program.cs",
+              "RelativeToolTip": "WEB.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:22:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestataire\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB.UI\\Views\\Prestataire\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Views\\Prestataire\\Index.cshtml",
+              "RelativeToolTip": "WEB.UI\\Views\\Prestataire\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T16:22:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prestation.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestation.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Prestation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:54:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRDV.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServiceRDV.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServiceRDV.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\ServiceRDV.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ServiceRDV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:41:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServiceRDV.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServiceRDV.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServiceRDV.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServiceRDV.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServiceRDV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:41:01.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WEB.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\WEB.UI.csproj",
+              "RelativeDocumentMoniker": "WEB.UI\\WEB.UI.csproj",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\WEB.UI.csproj",
+              "RelativeToolTip": "WEB.UI\\WEB.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T07:56:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IServicePrestation.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServicePrestation.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServicePrestation.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServicePrestation.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServicePrestation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:26:44.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RDV.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\RDV.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\RDV.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\RDV.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\RDV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:02:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:39:19.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IUnitOfWork.cs",
@@ -200,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "IServicePrestataire.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IServicePrestataire.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServicePrestataire.cs",
@@ -213,20 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Prestation.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestation.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestation.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestation.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Prestation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:54:12.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IGenericRepository.cs",
@@ -239,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "20250420120616_base.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\Migrations\\20250420120616_base.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\Migrations\\20250420120616_base.cs",
@@ -252,20 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Prestataire.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestataire.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Prestataire.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Prestataire.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Prestataire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:47:47.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\GenericRepository.cs",
@@ -273,11 +457,12 @@
               "RelativeToolTip": "Exam.Infrastructure\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:39:34.362Z"
+              "WhenOpened": "2025-04-20T09:39:34.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "RDVConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\Configurations\\RDVConfiguration.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\Configurations\\RDVConfiguration.cs",
@@ -285,11 +470,12 @@
               "RelativeToolTip": "Exam.Infrastructure\\Configurations\\RDVConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T11:17:37.974Z"
+              "WhenOpened": "2025-04-20T11:17:37.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "ExamContext.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\ExamContext.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\ExamContext.cs",
@@ -297,23 +483,12 @@
               "RelativeToolTip": "Exam.Infrastructure\\ExamContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wCsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:45:35.111Z"
+              "WhenOpened": "2024-11-10T15:45:35.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RDV.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\RDV.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\RDV.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\RDV.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\RDV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T10:02:20.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Client.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Client.cs",
@@ -321,11 +496,12 @@
               "RelativeToolTip": "ApplicationCore\\Domain\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:58:22.549Z"
+              "WhenOpened": "2025-04-20T09:58:22.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Zone.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Zone.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Zone.cs",
@@ -333,23 +509,12 @@
               "RelativeToolTip": "ApplicationCore\\Domain\\Zone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:53:10.414Z"
+              "WhenOpened": "2025-04-20T09:53:10.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Type.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Type.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Type.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Domain\\Type.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Type.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:56:39.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Exam.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\Exam.Infrastructure.csproj",
@@ -357,11 +522,12 @@
               "RelativeToolTip": "Exam.Infrastructure\\Exam.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T15:44:37.607Z"
+              "WhenOpened": "2024-11-10T15:44:37.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Infrastructure\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\UnitOfWork.cs",
@@ -369,11 +535,12 @@
               "RelativeToolTip": "Exam.Infrastructure\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T09:39:41.034Z"
+              "WhenOpened": "2025-04-20T09:39:41.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "ApplicationCore.csproj",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\ApplicationCore.csproj",
               "RelativeDocumentMoniker": "ApplicationCore\\ApplicationCore.csproj",
@@ -381,11 +548,12 @@
               "RelativeToolTip": "ApplicationCore\\ApplicationCore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T15:50:53.473Z"
+              "WhenOpened": "2024-11-10T15:50:53.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\ApplicationCore\\Class1.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Class1.cs",
@@ -393,47 +561,12 @@
               "RelativeToolTip": "ApplicationCore\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:43:47.017Z"
+              "WhenOpened": "2024-11-10T15:43:47.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Program.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\Program.cs",
-              "RelativeToolTip": "WEB.UI\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:22:22.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Console\\Program.cs",
-              "RelativeDocumentMoniker": "Exam.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Console\\Program.cs",
-              "RelativeToolTip": "Exam.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:43:17.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WEB.UI.csproj",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\WEB.UI.csproj",
-              "RelativeDocumentMoniker": "WEB.UI\\WEB.UI.csproj",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\WEB.UI.csproj",
-              "RelativeToolTip": "WEB.UI\\WEB.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T07:56:03.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "Exam.Console.csproj",
               "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\Exam.Console\\Exam.Console.csproj",
               "RelativeDocumentMoniker": "Exam.Console\\Exam.Console.csproj",
@@ -441,7 +574,8 @@
               "RelativeToolTip": "Exam.Console\\Exam.Console.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T15:44:21.521Z"
+              "WhenOpened": "2024-11-10T15:44:21.521Z",
+              "EditorCaption": ""
             }
           ]
         },

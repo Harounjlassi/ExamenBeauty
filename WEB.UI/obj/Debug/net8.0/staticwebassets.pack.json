@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WEB.UI.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WEB.UI.ukp23xbppu.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WEB.UI.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\wwwroot\\css\\site.css",
@@ -243,10 +243,6 @@
     {
       "Id": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenBeauty\\Examen\\WEB.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB.UI.Microsoft.AspNetCore.StaticWebAssets.props",

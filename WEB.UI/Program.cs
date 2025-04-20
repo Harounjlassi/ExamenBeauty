@@ -1,5 +1,7 @@
 using AM.ApplicationCore.Interfaces;
 using AM.Infrastructure;
+using ApplicationCore.Interfaces;
+using ApplicationCore.Services;
 using Exam.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +13,9 @@ builder.Services.AddDbContext<DbContext, ExamContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<Type>(p => typeof(GenericRepository<>));
 //add instance of services
+builder.Services.AddScoped<IServicePrestataire, ServicePrestataire>();
+builder.Services.AddScoped<IServicePrestation, ServicePrestation>();
+
 
 
 var app = builder.Build();

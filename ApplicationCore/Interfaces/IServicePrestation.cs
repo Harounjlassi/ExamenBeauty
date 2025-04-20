@@ -10,5 +10,6 @@ namespace ApplicationCore.Interfaces
 {
     public interface IServicePrestation:IService<Prestation>
     {
+        double PrixMoyen( );
     }
 }

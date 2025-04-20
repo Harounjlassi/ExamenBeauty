@@ -15,7 +15,8 @@ namespace ApplicationCore.Domain
         public int Note { get; set; }
         
         public string PageInstagram { get; set; }
-        
+        public string PrestataireTel { get; set; }
+
         public string PrestataireNom { get; set; }
         public Zone Zone { get; set; }
         public virtual IList<Prestation> Prestations { get; set; }

@@ -1,7 +1,6 @@
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\appsettings.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\WEB.UI.staticwebassets.runtime.json
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\WEB.UI.staticwebassets.endpoints.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\WEB.UI.exe
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\WEB.UI.deps.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\bin\Debug\net8.0\WEB.UI.runtimeconfig.json
@@ -252,14 +251,11 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\scopedcss\projectbundle\WEB.UI.bundle.scp.css
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.WEB.UI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.WEB.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.WEB.UI.props
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WEB.UI.props
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WEB.UI.props
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.csproj.Up2Date
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.dll
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\refint\WEB.UI.dll
