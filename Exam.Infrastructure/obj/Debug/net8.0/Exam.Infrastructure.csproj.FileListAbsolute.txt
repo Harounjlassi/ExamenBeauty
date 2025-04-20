@@ -32,3 +32,4 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Infras
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.genruntimeconfig.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Infrastructure\obj\Debug\net8.0\ref\Exam.Infrastructure.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.sourcelink.json

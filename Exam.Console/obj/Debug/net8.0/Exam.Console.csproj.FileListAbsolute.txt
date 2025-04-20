@@ -276,3 +276,4 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Consol
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.genruntimeconfig.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Console\obj\Debug\net8.0\ref\Exam.Console.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.sourcelink.json

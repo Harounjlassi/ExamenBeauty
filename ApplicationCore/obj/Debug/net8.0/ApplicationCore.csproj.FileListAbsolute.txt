@@ -22,3 +22,4 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\Application
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json

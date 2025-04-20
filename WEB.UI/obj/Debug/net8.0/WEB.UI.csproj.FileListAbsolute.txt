@@ -266,3 +266,4 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.genruntimeconfig.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\ref\WEB.UI.dll
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenBeauty\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.sourcelink.json
